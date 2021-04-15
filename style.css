@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #f5f5f5;
+    width: 100%;
+    position: relative;
+    padding: 5%;
+}
+#left-side {
+    position: absolute;
+    left: 0%;
+    width: 50%;
+    margin-left: 15%;
+}
+#logo {
+    margin-bottom: 2%;
+}
+#checking {
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+#div {
+    position: relative;
+    margin-left: 2%;
+}
+#h1 {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    font-family: 'Lobster', cursive;
+    font-size: xx-large;
+    margin-bottom: 3%;
+}
+#divPar{
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 38%;
+    color: grey;
+    margin-left: 2%;
+}
+#right-side{
+    position: relative;
+    margin-right: 15%;
+}
+#fb {
+    position: absolute;
+    right: 5%
+}
+#wifi{
+    position: absolute;
+    right: 0%;
+    top: 2%;
+}
+
+
+
+
+hr{
+    width: 100%;
+    background-image: url('https://uxd.tech/exp/exp-one/img/bar.jpg');
+    border-radius: 2%;
+} 
+
+
+
+
+
+
+
+
+
+.choco-pizza {
+}
+#pos1{
+    margin-bottom: 3%;
+    margin-left: 15%;
+}
+#pos11 {
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 3%;
+}
+#pos12 {
+    color: grey;
+    margin-left: 0%;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#pos2 {
+    float: right;
+    right: 0%;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 15%;
+
+}
+
+#choco-image {
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+} 
+
+
+
+.choco-para {
+    font-size: 22px;
+    width: 53%;
+    margin-left: 20%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p1{
+    padding: 5%;
+    margin: 0%
+}
+
+#checkbox{
+    width: 50%;
+    background-image: url(img/list-bg.png);
+    margin-left: 21.2%;
+}
+
+#itemOne{
+    margin-left: 10%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+#itemTwo{
+    float: right;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#vanImg{
+    float: left;
+    margin-left: 20%;
+}
+
+#vanTit{
+    margin-bottom: 1%;
+    margin-left: 20%;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#vanPara{
+    font-size: large;
+    font-weight: bold;
+}
+#vanBut{
+    float: right;
+    margin-right: 25%;
+    background-color: #bc7058;
+    color: #f5f5f5;
+    padding: 0.5%
+}
+#footer{
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
